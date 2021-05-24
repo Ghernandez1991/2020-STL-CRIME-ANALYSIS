@@ -16,3 +16,20 @@ The visualizations are made in Tableau and can be viewed at the link below.
 
 
 https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/STL_CRIME_2020/HomicidesandAssault1st
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/Ghernandez1991/2020-STL-CRIME-ANALYSIS/blob/master/Images/Discharging%20Firearms%20in%20City%20Limits.png)
+
+
+
+
+
+![alt text](https://github.com/Ghernandez1991/2020-STL-CRIME-ANALYSIS/blob/master/Images/Homicides%20and%20Assault%201st.png)
